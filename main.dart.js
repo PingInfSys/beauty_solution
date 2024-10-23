@@ -49374,7 +49374,7 @@ r=$.G()
 r=20*Math.min(r.gaj(),r.gaz())
 return A.cF(p,A.pV(B.bQ,A.b([A.yS(A.cF(p,A.aJ4(new A.az(new A.a3(r,r,r,r),o,p),q.c),B.t,B.v,p,p,p,n.b*0.6,p,p,p,p,n.a*0.2),0,100,0)],s),B.a1,B.bM),B.t,p,p,B.E2,p,1/0,p,p,p,p,1/0)}}
 A.aj4.prototype={
-$1(a){if(a!=="admin@beautysolution.com")return"\u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u063a\u064a\u0631 \u0635\u062d\u064a\u062d"
+$1(a){if(a!=="admin")return"\u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u063a\u064a\u0631 \u0635\u062d\u064a\u062d"
 return null},
 $S:74}
 A.aj5.prototype={
